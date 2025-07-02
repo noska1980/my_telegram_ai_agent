@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Database files
+*.db
+*.sqlite3
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Google Cloud credentials
+*.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
